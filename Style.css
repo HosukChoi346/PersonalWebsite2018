@@ -1,0 +1,26 @@
+body{
+	background-image: url("Mountain View.jpg");
+	background-size: contain;
+	background-color: blue;
+	}
+h1 {
+	color: white;
+	font-size: 300%;
+	}
+h2{
+	color: white;
+	font-size:250%;
+}
+p {
+	color:white;
+	font-size: 125%;
+	}
+a{
+	color: lightgreen;
+	font-size: 125%;
+}
+table, th, td {
+	border: 1px solid black;
+	color:white;
+	font-size: 125%;
+}
